@@ -1,3 +1,3 @@
 # Biostat2022
 
-example for students 
+This projected created by Zhur K. 
